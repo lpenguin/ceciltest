@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ceciltest", "ceciltest\ceciltest.csproj", "{232A6AB6-A485-46E1-86F9-B7D3A502FD02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{232A6AB6-A485-46E1-86F9-B7D3A502FD02}.Debug|x86.ActiveCfg = Debug|x86
+		{232A6AB6-A485-46E1-86F9-B7D3A502FD02}.Debug|x86.Build.0 = Debug|x86
+		{232A6AB6-A485-46E1-86F9-B7D3A502FD02}.Release|x86.ActiveCfg = Release|x86
+		{232A6AB6-A485-46E1-86F9-B7D3A502FD02}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ceciltest\ceciltest.csproj
+	EndGlobalSection
+EndGlobal
